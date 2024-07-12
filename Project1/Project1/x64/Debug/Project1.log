@@ -1,0 +1,14 @@
+﻿  StudentManagerSystem.h
+  源.cpp
+C:\Users\15988\Desktop\Project1\源.cpp(67,9): warning C4129: “*”: 不可识别的字符转义序列
+C:\Users\15988\Desktop\Project1\源.cpp(75,9): warning C4129: “*”: 不可识别的字符转义序列
+C:\Users\15988\Desktop\Project1\源.cpp(106,8): warning C4476: "scanf": 格式说明符中的类型字段字符“ ”未知
+C:\Users\15988\Desktop\Project1\源.cpp(106,16): warning C4474: scanf: 格式字符串中传递的参数太多
+  C:\Users\15988\Desktop\Project1\源.cpp(106,16):
+  占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+C:\Users\15988\Desktop\Project1\源.cpp(106,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15988\Desktop\Project1\源.cpp(113,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15988\Desktop\Project1\源.cpp(120,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15988\Desktop\Project1\源.cpp(127,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
